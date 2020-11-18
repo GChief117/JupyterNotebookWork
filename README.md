@@ -1,2 +1,2 @@
 # JupyterNotebookWork
-A repository of all the jupyternotebook work I have done to gain knowlede in scitlearn and google tensorflow so far
+A repository of all the jupyternotebook work in scikit-learn and google tensorflow so far
